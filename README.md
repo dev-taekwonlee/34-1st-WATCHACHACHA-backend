@@ -21,8 +21,8 @@ PROJECT : Watcha Classic
 
 ## 🧑🏻‍💻 팀 인원
 - 총 5명
+- Backend : 이태권(PM), 박민하
 - Frontend: 김민석, 김은경, 이현범 
-- Backend : 박민하, 이태권(PM)
 
 ## 🖥 Backend 역할
 
