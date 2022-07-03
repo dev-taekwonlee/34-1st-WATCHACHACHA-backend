@@ -11,9 +11,9 @@
 
 ## 🎙 설명
 
-위의 레포지토리는 [위코드 부트캠프](https://github.com/wecode-bootcamp-korea)의 [34기 백엔드 1차 프로젝트]([Watcha Classic 백엔드 github 링크](https://github.com/wecode-bootcamp-korea/34-1st-WATCHACHACHA-frontend))입니다.
+위의 레포지토리는 [위코드 부트캠프](https://github.com/wecode-bootcamp-korea)의 [34기 백엔드 1차 프로젝트](https://github.com/wecode-bootcamp-korea/34-1st-WATCHACHACHA-backend)입니다.
 
-- [Watcha Classic 백엔드 GitHub 링크](https://github.com/wecode-bootcamp-korea/34-1st-WATCHACHACHA-frontend)
+- [Watcha Classic 백엔드 GitHub 링크](https://github.com/wecode-bootcamp-korea/34-1st-WATCHACHACHA-backend)
 - [Watcha Classic 프론트엔드 GitHub 링크](https://github.com/wecode-bootcamp-korea/34-1st-WATCHACHACHA-frontend)
 
 ## 📆 개발 기간
