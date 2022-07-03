@@ -63,7 +63,7 @@ PROJECT : Watcha Classic
 
 ### ERD
 
-![image](https://user-images.githubusercontent.com/50426259/176841194-db70fa46-6f62-4a65-8638-3c2562092a32.png)
+![watcha_classic_modeling_20220623](https://user-images.githubusercontent.com/102043891/177026614-1eabbc1b-711b-4d43-a908-e88c12935d1f.png)
 
 ### 사이트 시현 사진
 <img width="643" alt="Screen Shot 2022-07-01 at 3 59 11 PM" src="https://user-images.githubusercontent.com/102043891/176841574-5d68d365-7687-4a9e-85e7-c83464240429.png">
