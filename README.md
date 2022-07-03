@@ -1,10 +1,11 @@
 # Watcha Classic (위코드 34기 1차 프로젝트)
 <img width="860" alt="Screen Shot 2022-07-03 at 12 57 30 PM" src="https://user-images.githubusercontent.com/102043891/177023992-a4d897ca-cc20-44aa-ba27-2f427ce72707.png">
 팀명 왓챠챠챠(WATCHACHACHA)
+<br>
 프로젝트명 왓챠 클래식(Watcha Classic)
 <br>
--기존의 [왓챠피디아 사이트](https://pedia.watcha.com/ko-KR/)는 영화를 비롯한 TV 프로그램, 책, 웹툰에 대한 정보를 조회, 평가, 검색 등의 기능이 구현된 SNS 백과사전 사이트입니다.
--저희 팀이 기획한 Watcha Classic은 SNS 기능(좋아요, 팔로우/팔로잉, 코멘트 등)과 평점 데이터를 활용한 **클래식 영화** 백과사전 사이트입니다.
+- 기존의 [왓챠피디아 사이트](https://pedia.watcha.com/ko-KR)는 영화를 비롯한 TV 프로그램, 책, 웹툰에 대한 정보를 조회, 평가, 검색 등의 기능이 구현된 SNS 백과사전 사이트입니다.
+- 저희 팀이 기획한 Watcha Classic은 SNS 기능(좋아요, 팔로우/팔로잉, 코멘트 등)과 평점 데이터를 활용한 **클래식 영화** 백과사전 사이트입니다.
 
 <br>
 <br>
@@ -24,10 +25,10 @@
 - Frontend: 김민석, 김은경, 이현범 
 - Backend : 박민하, 이태권(PM)
 
-## 🖥 Backend 팀 역할
+## 🖥 Backend 역할
 
 **[이태권(PM)](https://github.com/dev-taekwonlee)**
-- dbdiagram을 이용한 데이터 모델링 (중심)
+- dbdiagram을 이용한 데이터 모델링 구축 (중심)
 - csv file to MySQL (보조)
 - token decorator
 - 메인 페이지 API 구현(GET)
@@ -37,11 +38,11 @@
 **[박민하](https://github.com/miracle-21)**
 - dbdiagram을 이용한 데이터 모델링 (보조)
 - csv file to MySQL (중심)
-- 로그인 기능 및 bcrpyt, pyjwt를 회원 인증/인가 API 구현
-- 회원가입 기능 및 bcrypt를 통해 암호화된 회원정보를 DB에 저장 
+- 회원가입: bcrypt를 통해 암호화된 회원정보를 DB에 저장 (POST)
+- 로그인 기능: bcrpyt, pyjwt를 회원 인증/인가 및 API 구현 (POST)
 - 로그인/회원가입 유효성 검사
 - 상세 페이지 API 구현 (GET)
-- 보고 싶어요 페이지 API 구현 (GET)
+- 보고 싶어요 API 구현 (GET)
 
 ## 💻 Backend 기술 스택
 
@@ -49,21 +50,25 @@
 | :----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
 | <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> | <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=black"> | <img src="https://img.shields.io/badge/miniconda3-44A833?style=for-the-badge&logo=anaconda&logoColor=white"> | <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> |
 
-
-
 <br>
 <br>
 
 ## ❓ 프로젝트 선정 이유
-해당 사이트를 평소에도 잘 활용하고 있어서 영화를 조회, 평가, 댓글 검색 등의 기능을 잘 활용하는데, 이를 직접 만들어 보고 싶었습니다.
+왓챠피디아를 평소에도 자주 활용하고 있어서 해당 사이트의 기능을 직접 기획, 제작해보고 싶었습니다.
+
+<br>
 <br>
 
 ## 📚 팀 프로젝트 자료
 
-### 사진
+### ERD
+
+![image](https://user-images.githubusercontent.com/50426259/176841194-db70fa46-6f62-4a65-8638-3c2562092a32.png)
+
+### 사이트 시현 사진
 <img width="643" alt="Screen Shot 2022-07-01 at 3 59 11 PM" src="https://user-images.githubusercontent.com/102043891/176841574-5d68d365-7687-4a9e-85e7-c83464240429.png">
 
-### 영상
+### 사이트 시현 영상
 [데모 영상](https://www.youtube.com/watch?v=AqXCkm3HQTg)
 
 <br>
